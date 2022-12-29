@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Effinity/static/css/main.9c575a53.css",
+    "main.js": "/Effinity/static/js/main.8fc95b68.js",
+    "static/js/787.e5ffded1.chunk.js": "/Effinity/static/js/787.e5ffded1.chunk.js",
+    "static/media/first pic.png": "/Effinity/static/media/first pic.ba7fb45b750d790e6862.png",
+    "static/media/industryimg.png": "/Effinity/static/media/industryimg.cbe23403d3e2ef8d3b51.png",
+    "static/media/DSC00287 5.png": "/Effinity/static/media/DSC00287 5.f26d7edfe5d59b9602ba.png",
+    "static/media/Rectangle 31.png": "/Effinity/static/media/Rectangle 31.7fcbaddaf5d0d25edbfa.png",
+    "static/media/iPad.png": "/Effinity/static/media/iPad.911f0e415617aaffb1d2.png",
+    "static/media/Line-5.png": "/Effinity/static/media/Line-5.49fc51ed436fe88b9bdb.png",
+    "static/media/header.png": "/Effinity/static/media/header.cd4df4d2f21d0bde5de4.png",
+    "static/media/eff.png": "/Effinity/static/media/eff.eede36a4108809cde2a8.png",
+    "static/media/Group 14.png": "/Effinity/static/media/Group 14.af93134b5c89ff4ab92f.png",
+    "static/media/Ellipse 4.png": "/Effinity/static/media/Ellipse 4.be969557c75c599c4f7d.png",
+    "static/media/Line-7.png": "/Effinity/static/media/Line-7.3e52b17a570505ba890c.png",
+    "static/media/Ellipse 6.png": "/Effinity/static/media/Ellipse 6.c98aa0ecdac0109dd84e.png",
+    "static/media/image 2.png": "/Effinity/static/media/image 2.d506f659205ce818550a.png",
+    "static/media/logo.svg": "/Effinity/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Effinity/index.html",
+    "main.9c575a53.css.map": "/Effinity/static/css/main.9c575a53.css.map",
+    "main.8fc95b68.js.map": "/Effinity/static/js/main.8fc95b68.js.map",
+    "787.e5ffded1.chunk.js.map": "/Effinity/static/js/787.e5ffded1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c575a53.css",
+    "static/js/main.8fc95b68.js"
+  ]
+}
